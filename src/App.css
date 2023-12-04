@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.d-flexStart {
+  width: 100%;
+  justify-content: flex-start;
+}
+
+#demo-row-radio-buttons-group-label {
+  text-align: left;
+}
